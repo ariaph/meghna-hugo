@@ -88,7 +88,7 @@ weight = 8
 author = "Yannick Bauwens"
 description = "Electricien"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = ""
 post_share = false
 [params.cookies]
 enable = false
